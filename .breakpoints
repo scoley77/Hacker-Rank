@@ -25,6 +25,20 @@
         "version": 203,
         "index": 240
       }
+    ],
+    "print_consecutive.py": [
+      {
+        "id": "3b234e0b-1795-44ad-9636-3d760ef1380b",
+        "line": 10,
+        "version": 165,
+        "index": 122
+      },
+      {
+        "id": "5fa41bac-1a96-41ad-b1d4-2eab922c1e47",
+        "line": 11,
+        "version": 183,
+        "index": 129
+      }
     ]
   }
 }
